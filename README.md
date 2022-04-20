@@ -1,6 +1,3 @@
-<p align="center">
-  <!--a href="https://github.com/CMHopeSunshine/LittlePaimon"><img src="https://raw.githubusercontent.com/CMHopeSunshine/LittlePaimon/master/readme/logo.png" width="256" height="256" alt="LittlePaimon"></a-->
-</p>
 <h1 align="center">.命令 系统 一键部署脚本</h1>
 <h4 align="center">✨基于PowShell的.命令 系统 一键部署脚本✨</h4>
 
@@ -65,7 +62,7 @@ iwr "https://gitee.com/Bugjump7344/Dotboot/attach_files/1036943/download/Dot-Cs-
 
 ## 额外说明🗝️
 
-使用前您需要同意`.命令`系统的`用户协议`：
+> 使用前您需要同意`.命令`系统的`用户协议`：
 - 你需要达到14岁以上才可以使用本软件,未满18岁请在家长陪同下阅读
 - `".命令"系统用户协议`:
 - 1.".命令"系统禁止任何人讲解其原理
@@ -78,6 +75,13 @@ iwr "https://gitee.com/Bugjump7344/Dotboot/attach_files/1036943/download/Dot-Cs-
 - 8.".命令"系统使用过程中会收集您租赁服的信息用于解析执行插件，收集租赁服号信息用于推广，其他信息均不收集
 - 9.".命令"系统`不收取社区版的费用`
 - 10.".命令"系统Pro版以及附属产品`不支持退款`
+
+> `.命令` 系统价格表
+<p align="center">
+  <img src="https://s1.328888.xyz/2022/04/21/rv1kt.jpg" width="512" height="512" alt="114514"></>
+</p>
+
+
 
 ## 最后
 
