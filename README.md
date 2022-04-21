@@ -24,7 +24,7 @@
 ### 手动部署
 
 - Windows
-在[此处](https://github.com/Mxmimii/DotCSPS1/README.md)按照流程部署即可
+在[此处](https://github.com/Mxmimii/DotCSPS1/blob/main/部署方法.md)按照流程部署即可
 
 ### Windows一键部署命令
 
