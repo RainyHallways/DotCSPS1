@@ -24,7 +24,7 @@
 ### 手动部署
 
 - Windows
-在[此处](https://gitee.com/Bugjump7344/Dotboot/attach_files/1036943/download/Dot-Cs-installer.ps1)下载部署脚本，放在你想部署的位置右键选取`使用powershell运行`按照脚本流程即可
+在[此处](https://github.com/Mxmimii/DotCSPS1/README.md)按照流程部署即可
 
 ### Windows一键部署命令
 
